@@ -2,9 +2,10 @@
 I work on
 - Ruby on Rails
 - ReactJs
+- Typerscript 
 - CI/CD using different solutions such as Gitlab, CircleCI etc.
-- Learning Kubernetes and Prometheus
-
+- Currently learning Kubernetes and Prometheus
+- Like to work on monolithic applications, and don't see the point of having microservices, unless you can afford to have atleast one team per microservice( or couple of microservices)
 I enjoy working on applications from end to end. Cheers!
 
 <!--
