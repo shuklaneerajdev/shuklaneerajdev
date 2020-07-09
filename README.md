@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I am Niraj Shukla
+I work on
+- Ruby on Rails
+- ReactJs
+- CI/CD using different solutions such as Gitlab, CircleCI etc.
+- Learning Kubernetes and Prometheus
+
+I enjoy working on applications from end to end. Cheers!
 
 <!--
 **shklnrj/shklnrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
